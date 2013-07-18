@@ -1,0 +1,5 @@
+C:\Terelik\02.Primitive Data Types and Variables\03.NumberPrecision\bin\Debug\03.NumberPrecision.exe
+C:\Terelik\02.Primitive Data Types and Variables\03.NumberPrecision\bin\Debug\03.NumberPrecision.pdb
+C:\Terelik\02.Primitive Data Types and Variables\03.NumberPrecision\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\02.Primitive Data Types and Variables\03.NumberPrecision\obj\x86\Debug\03.NumberPrecision.exe
+C:\Terelik\02.Primitive Data Types and Variables\03.NumberPrecision\obj\x86\Debug\03.NumberPrecision.pdb

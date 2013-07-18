@@ -1,0 +1,5 @@
+C:\Terelik\03.Operators and Expressions\01.OddOrEven\bin\Debug\01.OddOrEven.exe
+C:\Terelik\03.Operators and Expressions\01.OddOrEven\bin\Debug\01.OddOrEven.pdb
+C:\Terelik\03.Operators and Expressions\01.OddOrEven\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\03.Operators and Expressions\01.OddOrEven\obj\x86\Debug\01.OddOrEven.exe
+C:\Terelik\03.Operators and Expressions\01.OddOrEven\obj\x86\Debug\01.OddOrEven.pdb

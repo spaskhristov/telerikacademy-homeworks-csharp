@@ -1,0 +1,5 @@
+C:\Terelik\05.Conditional-Statements\01.ExchangeValue\bin\Debug\01.ExchangeValue.exe
+C:\Terelik\05.Conditional-Statements\01.ExchangeValue\bin\Debug\01.ExchangeValue.pdb
+C:\Terelik\05.Conditional-Statements\01.ExchangeValue\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\05.Conditional-Statements\01.ExchangeValue\obj\x86\Debug\01.ExchangeValue.exe
+C:\Terelik\05.Conditional-Statements\01.ExchangeValue\obj\x86\Debug\01.ExchangeValue.pdb

@@ -1,0 +1,5 @@
+C:\Terelik\05.Conditional-Statements\05.DigitName\bin\Debug\05.DigitName.exe
+C:\Terelik\05.Conditional-Statements\05.DigitName\bin\Debug\05.DigitName.pdb
+C:\Terelik\05.Conditional-Statements\05.DigitName\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\05.Conditional-Statements\05.DigitName\obj\x86\Debug\05.DigitName.exe
+C:\Terelik\05.Conditional-Statements\05.DigitName\obj\x86\Debug\05.DigitName.pdb

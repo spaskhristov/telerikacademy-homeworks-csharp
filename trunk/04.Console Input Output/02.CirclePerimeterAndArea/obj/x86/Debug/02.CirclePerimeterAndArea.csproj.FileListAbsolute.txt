@@ -1,0 +1,5 @@
+C:\Terelik\04.Console Input Output\02.CirclePerimeterAndArea\bin\Debug\02.CirclePerimeterAndArea.exe
+C:\Terelik\04.Console Input Output\02.CirclePerimeterAndArea\bin\Debug\02.CirclePerimeterAndArea.pdb
+C:\Terelik\04.Console Input Output\02.CirclePerimeterAndArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\04.Console Input Output\02.CirclePerimeterAndArea\obj\x86\Debug\02.CirclePerimeterAndArea.exe
+C:\Terelik\04.Console Input Output\02.CirclePerimeterAndArea\obj\x86\Debug\02.CirclePerimeterAndArea.pdb

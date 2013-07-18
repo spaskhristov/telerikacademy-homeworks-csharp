@@ -1,0 +1,5 @@
+C:\Terelik\02.Primitive Data Types and Variables\04.HexVar\bin\Debug\04.HexVar.exe
+C:\Terelik\02.Primitive Data Types and Variables\04.HexVar\bin\Debug\04.HexVar.pdb
+C:\Terelik\02.Primitive Data Types and Variables\04.HexVar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\02.Primitive Data Types and Variables\04.HexVar\obj\x86\Debug\04.HexVar.exe
+C:\Terelik\02.Primitive Data Types and Variables\04.HexVar\obj\x86\Debug\04.HexVar.pdb

@@ -1,0 +1,5 @@
+C:\Terelik\05.Conditional-Statements\08.InputType\bin\Debug\08.InputType.exe
+C:\Terelik\05.Conditional-Statements\08.InputType\bin\Debug\08.InputType.pdb
+C:\Terelik\05.Conditional-Statements\08.InputType\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\05.Conditional-Statements\08.InputType\obj\x86\Debug\08.InputType.exe
+C:\Terelik\05.Conditional-Statements\08.InputType\obj\x86\Debug\08.InputType.pdb

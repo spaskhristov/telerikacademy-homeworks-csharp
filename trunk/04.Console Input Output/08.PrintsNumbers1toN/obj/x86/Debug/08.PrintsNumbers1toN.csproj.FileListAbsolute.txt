@@ -1,0 +1,5 @@
+C:\Terelik\04.Console Input Output\08.PrintsNumbers1toN\bin\Debug\08.PrintsNumbers1toN.exe
+C:\Terelik\04.Console Input Output\08.PrintsNumbers1toN\bin\Debug\08.PrintsNumbers1toN.pdb
+C:\Terelik\04.Console Input Output\08.PrintsNumbers1toN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\04.Console Input Output\08.PrintsNumbers1toN\obj\x86\Debug\08.PrintsNumbers1toN.exe
+C:\Terelik\04.Console Input Output\08.PrintsNumbers1toN\obj\x86\Debug\08.PrintsNumbers1toN.pdb

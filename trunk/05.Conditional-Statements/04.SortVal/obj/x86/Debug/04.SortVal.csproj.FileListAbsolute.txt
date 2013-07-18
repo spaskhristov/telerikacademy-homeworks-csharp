@@ -1,0 +1,5 @@
+C:\Terelik\05.Conditional-Statements\04.SortVal\bin\Debug\04.SortVal.exe
+C:\Terelik\05.Conditional-Statements\04.SortVal\bin\Debug\04.SortVal.pdb
+C:\Terelik\05.Conditional-Statements\04.SortVal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\05.Conditional-Statements\04.SortVal\obj\x86\Debug\04.SortVal.exe
+C:\Terelik\05.Conditional-Statements\04.SortVal\obj\x86\Debug\04.SortVal.pdb

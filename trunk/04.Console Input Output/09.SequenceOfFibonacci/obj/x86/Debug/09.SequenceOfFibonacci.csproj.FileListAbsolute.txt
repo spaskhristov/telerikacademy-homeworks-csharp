@@ -1,0 +1,5 @@
+C:\Terelik\04.Console Input Output\09.SequenceOfFibonacci\bin\Debug\09.SequenceOfFibonacci.exe
+C:\Terelik\04.Console Input Output\09.SequenceOfFibonacci\bin\Debug\09.SequenceOfFibonacci.pdb
+C:\Terelik\04.Console Input Output\09.SequenceOfFibonacci\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\04.Console Input Output\09.SequenceOfFibonacci\obj\x86\Debug\09.SequenceOfFibonacci.exe
+C:\Terelik\04.Console Input Output\09.SequenceOfFibonacci\obj\x86\Debug\09.SequenceOfFibonacci.pdb

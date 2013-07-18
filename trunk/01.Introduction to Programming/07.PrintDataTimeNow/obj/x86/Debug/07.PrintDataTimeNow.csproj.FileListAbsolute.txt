@@ -1,0 +1,5 @@
+C:\Terelik\01.Introduction to Programming\07.PrintDataTimeNow\bin\Debug\07.PrintDataTimeNow.exe
+C:\Terelik\01.Introduction to Programming\07.PrintDataTimeNow\bin\Debug\07.PrintDataTimeNow.pdb
+C:\Terelik\01.Introduction to Programming\07.PrintDataTimeNow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\01.Introduction to Programming\07.PrintDataTimeNow\obj\x86\Debug\07.PrintDataTimeNow.exe
+C:\Terelik\01.Introduction to Programming\07.PrintDataTimeNow\obj\x86\Debug\07.PrintDataTimeNow.pdb

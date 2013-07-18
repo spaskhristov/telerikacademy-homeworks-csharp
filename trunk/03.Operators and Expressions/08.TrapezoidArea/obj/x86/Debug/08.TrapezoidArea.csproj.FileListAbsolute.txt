@@ -1,0 +1,5 @@
+C:\Terelik\03.Operators and Expressions\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe
+C:\Terelik\03.Operators and Expressions\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.pdb
+C:\Terelik\03.Operators and Expressions\08.TrapezoidArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\03.Operators and Expressions\08.TrapezoidArea\obj\x86\Debug\08.TrapezoidArea.exe
+C:\Terelik\03.Operators and Expressions\08.TrapezoidArea\obj\x86\Debug\08.TrapezoidArea.pdb

@@ -1,0 +1,5 @@
+C:\Terelik\03.Operators and Expressions\05.ThirdBit\bin\Debug\05.ThirdBit.exe
+C:\Terelik\03.Operators and Expressions\05.ThirdBit\bin\Debug\05.ThirdBit.pdb
+C:\Terelik\03.Operators and Expressions\05.ThirdBit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\03.Operators and Expressions\05.ThirdBit\obj\x86\Debug\05.ThirdBit.exe
+C:\Terelik\03.Operators and Expressions\05.ThirdBit\obj\x86\Debug\05.ThirdBit.pdb

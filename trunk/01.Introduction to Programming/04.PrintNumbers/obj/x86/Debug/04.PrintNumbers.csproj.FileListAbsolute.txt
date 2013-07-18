@@ -1,0 +1,5 @@
+C:\Terelik\01.Introduction to Programming\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe
+C:\Terelik\01.Introduction to Programming\04.PrintNumbers\bin\Debug\04.PrintNumbers.pdb
+C:\Terelik\01.Introduction to Programming\04.PrintNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\01.Introduction to Programming\04.PrintNumbers\obj\x86\Debug\04.PrintNumbers.exe
+C:\Terelik\01.Introduction to Programming\04.PrintNumbers\obj\x86\Debug\04.PrintNumbers.pdb

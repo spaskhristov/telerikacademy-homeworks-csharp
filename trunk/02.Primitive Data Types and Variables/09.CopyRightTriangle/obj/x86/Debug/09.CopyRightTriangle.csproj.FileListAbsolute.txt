@@ -1,0 +1,5 @@
+C:\Terelik\02.Primitive Data Types and Variables\09.CopyRightTriangle\bin\Debug\09.CopyRightTriangle.exe
+C:\Terelik\02.Primitive Data Types and Variables\09.CopyRightTriangle\bin\Debug\09.CopyRightTriangle.pdb
+C:\Terelik\02.Primitive Data Types and Variables\09.CopyRightTriangle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\02.Primitive Data Types and Variables\09.CopyRightTriangle\obj\x86\Debug\09.CopyRightTriangle.exe
+C:\Terelik\02.Primitive Data Types and Variables\09.CopyRightTriangle\obj\x86\Debug\09.CopyRightTriangle.pdb

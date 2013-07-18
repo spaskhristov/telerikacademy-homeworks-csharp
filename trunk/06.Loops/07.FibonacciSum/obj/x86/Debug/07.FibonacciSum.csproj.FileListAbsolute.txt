@@ -1,0 +1,5 @@
+C:\Terelik\06.Loops\07.FibonacciSum\bin\Debug\07.FibonacciSum.exe
+C:\Terelik\06.Loops\07.FibonacciSum\bin\Debug\07.FibonacciSum.pdb
+C:\Terelik\06.Loops\07.FibonacciSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\06.Loops\07.FibonacciSum\obj\x86\Debug\07.FibonacciSum.exe
+C:\Terelik\06.Loops\07.FibonacciSum\obj\x86\Debug\07.FibonacciSum.pdb

@@ -1,0 +1,5 @@
+C:\Terelik\03.Operators and Expressions\06.PointWithinCircle\bin\Debug\06.PointWithinCircle.exe
+C:\Terelik\03.Operators and Expressions\06.PointWithinCircle\bin\Debug\06.PointWithinCircle.pdb
+C:\Terelik\03.Operators and Expressions\06.PointWithinCircle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\03.Operators and Expressions\06.PointWithinCircle\obj\x86\Debug\06.PointWithinCircle.exe
+C:\Terelik\03.Operators and Expressions\06.PointWithinCircle\obj\x86\Debug\06.PointWithinCircle.pdb

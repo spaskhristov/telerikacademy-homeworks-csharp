@@ -1,0 +1,5 @@
+C:\Terelik\03.Operators and Expressions\14.ExchangeKbitsFromPtoQ\bin\Debug\14.ExchangeKbitsFromPtoQ.exe
+C:\Terelik\03.Operators and Expressions\14.ExchangeKbitsFromPtoQ\bin\Debug\14.ExchangeKbitsFromPtoQ.pdb
+C:\Terelik\03.Operators and Expressions\14.ExchangeKbitsFromPtoQ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\03.Operators and Expressions\14.ExchangeKbitsFromPtoQ\obj\x86\Debug\14.ExchangeKbitsFromPtoQ.exe
+C:\Terelik\03.Operators and Expressions\14.ExchangeKbitsFromPtoQ\obj\x86\Debug\14.ExchangeKbitsFromPtoQ.pdb
