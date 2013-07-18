@@ -1,0 +1,5 @@
+C:\Terelik\05.Conditional-Statements\09.SubsetSum\bin\Debug\09.SubsetSum.exe
+C:\Terelik\05.Conditional-Statements\09.SubsetSum\bin\Debug\09.SubsetSum.pdb
+C:\Terelik\05.Conditional-Statements\09.SubsetSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\05.Conditional-Statements\09.SubsetSum\obj\x86\Debug\09.SubsetSum.exe
+C:\Terelik\05.Conditional-Statements\09.SubsetSum\obj\x86\Debug\09.SubsetSum.pdb

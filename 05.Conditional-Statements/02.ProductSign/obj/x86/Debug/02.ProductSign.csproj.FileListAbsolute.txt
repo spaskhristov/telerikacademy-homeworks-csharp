@@ -1,0 +1,5 @@
+C:\Terelik\05.Conditional-Statements\02.ProductSign\bin\Debug\02.ProductSign.exe
+C:\Terelik\05.Conditional-Statements\02.ProductSign\bin\Debug\02.ProductSign.pdb
+C:\Terelik\05.Conditional-Statements\02.ProductSign\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\05.Conditional-Statements\02.ProductSign\obj\x86\Debug\02.ProductSign.exe
+C:\Terelik\05.Conditional-Statements\02.ProductSign\obj\x86\Debug\02.ProductSign.pdb

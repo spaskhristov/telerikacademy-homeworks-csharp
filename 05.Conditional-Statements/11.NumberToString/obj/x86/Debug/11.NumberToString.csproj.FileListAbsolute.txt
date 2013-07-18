@@ -1,0 +1,5 @@
+C:\Terelik\05.Conditional-Statements\11.NumberToString\bin\Debug\11.NumberToString.exe
+C:\Terelik\05.Conditional-Statements\11.NumberToString\bin\Debug\11.NumberToString.pdb
+C:\Terelik\05.Conditional-Statements\11.NumberToString\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\05.Conditional-Statements\11.NumberToString\obj\x86\Debug\11.NumberToString.exe
+C:\Terelik\05.Conditional-Statements\11.NumberToString\obj\x86\Debug\11.NumberToString.pdb

@@ -1,0 +1,5 @@
+C:\Terelik\04.Console Input Output\10.SumAccuracyDot001\bin\Debug\10.SumAccuracyDot001.exe
+C:\Terelik\04.Console Input Output\10.SumAccuracyDot001\bin\Debug\10.SumAccuracyDot001.pdb
+C:\Terelik\04.Console Input Output\10.SumAccuracyDot001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\04.Console Input Output\10.SumAccuracyDot001\obj\x86\Debug\10.SumAccuracyDot001.exe
+C:\Terelik\04.Console Input Output\10.SumAccuracyDot001\obj\x86\Debug\10.SumAccuracyDot001.pdb

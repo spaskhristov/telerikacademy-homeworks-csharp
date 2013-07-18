@@ -1,0 +1,5 @@
+C:\Terelik\02.Primitive Data Types and Variables\12.PrintASCIICharacters\bin\Debug\12.PrintASCIICharacters.exe
+C:\Terelik\02.Primitive Data Types and Variables\12.PrintASCIICharacters\bin\Debug\12.PrintASCIICharacters.pdb
+C:\Terelik\02.Primitive Data Types and Variables\12.PrintASCIICharacters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\02.Primitive Data Types and Variables\12.PrintASCIICharacters\obj\x86\Debug\12.PrintASCIICharacters.exe
+C:\Terelik\02.Primitive Data Types and Variables\12.PrintASCIICharacters\obj\x86\Debug\12.PrintASCIICharacters.pdb

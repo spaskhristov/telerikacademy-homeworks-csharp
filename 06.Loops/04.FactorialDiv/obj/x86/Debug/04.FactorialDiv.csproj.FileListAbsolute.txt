@@ -1,0 +1,5 @@
+C:\Terelik\06.Loops\04.FactorialDiv\bin\Debug\04.FactorialDiv.exe
+C:\Terelik\06.Loops\04.FactorialDiv\bin\Debug\04.FactorialDiv.pdb
+C:\Terelik\06.Loops\04.FactorialDiv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\06.Loops\04.FactorialDiv\obj\x86\Debug\04.FactorialDiv.exe
+C:\Terelik\06.Loops\04.FactorialDiv\obj\x86\Debug\04.FactorialDiv.pdb

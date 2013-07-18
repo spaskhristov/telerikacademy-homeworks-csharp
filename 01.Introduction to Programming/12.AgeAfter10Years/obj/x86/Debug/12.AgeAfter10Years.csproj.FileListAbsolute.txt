@@ -1,0 +1,5 @@
+C:\Terelik\01.Introduction to Programming\12.AgeAfter10Years\bin\Debug\12.AgeAfter10Years.exe
+C:\Terelik\01.Introduction to Programming\12.AgeAfter10Years\bin\Debug\12.AgeAfter10Years.pdb
+C:\Terelik\01.Introduction to Programming\12.AgeAfter10Years\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\01.Introduction to Programming\12.AgeAfter10Years\obj\x86\Debug\12.AgeAfter10Years.exe
+C:\Terelik\01.Introduction to Programming\12.AgeAfter10Years\obj\x86\Debug\12.AgeAfter10Years.pdb

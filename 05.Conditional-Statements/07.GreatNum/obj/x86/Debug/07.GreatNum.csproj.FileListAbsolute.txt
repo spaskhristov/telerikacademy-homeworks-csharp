@@ -1,0 +1,5 @@
+C:\Terelik\05.Conditional-Statements\07.GreatNum\bin\Debug\07.GreatNum.exe
+C:\Terelik\05.Conditional-Statements\07.GreatNum\bin\Debug\07.GreatNum.pdb
+C:\Terelik\05.Conditional-Statements\07.GreatNum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\05.Conditional-Statements\07.GreatNum\obj\x86\Debug\07.GreatNum.exe
+C:\Terelik\05.Conditional-Statements\07.GreatNum\obj\x86\Debug\07.GreatNum.pdb

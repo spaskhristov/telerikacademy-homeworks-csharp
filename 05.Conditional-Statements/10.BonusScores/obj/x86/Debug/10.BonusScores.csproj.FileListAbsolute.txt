@@ -1,0 +1,5 @@
+C:\Terelik\05.Conditional-Statements\10.BonusScores\bin\Debug\10.BonusScores.exe
+C:\Terelik\05.Conditional-Statements\10.BonusScores\bin\Debug\10.BonusScores.pdb
+C:\Terelik\05.Conditional-Statements\10.BonusScores\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\05.Conditional-Statements\10.BonusScores\obj\x86\Debug\10.BonusScores.exe
+C:\Terelik\05.Conditional-Statements\10.BonusScores\obj\x86\Debug\10.BonusScores.pdb

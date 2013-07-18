@@ -1,0 +1,5 @@
+C:\Terelik\05.Conditional-Statements\03.MaxOf3Num\bin\Debug\03.MaxOf3Num.exe
+C:\Terelik\05.Conditional-Statements\03.MaxOf3Num\bin\Debug\03.MaxOf3Num.pdb
+C:\Terelik\05.Conditional-Statements\03.MaxOf3Num\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\05.Conditional-Statements\03.MaxOf3Num\obj\x86\Debug\03.MaxOf3Num.exe
+C:\Terelik\05.Conditional-Statements\03.MaxOf3Num\obj\x86\Debug\03.MaxOf3Num.pdb

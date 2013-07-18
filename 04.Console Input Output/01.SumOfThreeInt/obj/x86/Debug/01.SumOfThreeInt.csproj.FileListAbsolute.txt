@@ -1,0 +1,5 @@
+C:\Terelik\04.Console Input Output\01.SumOfThreeInt\bin\Debug\01.SumOfThreeInt.exe
+C:\Terelik\04.Console Input Output\01.SumOfThreeInt\bin\Debug\01.SumOfThreeInt.pdb
+C:\Terelik\04.Console Input Output\01.SumOfThreeInt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\04.Console Input Output\01.SumOfThreeInt\obj\x86\Debug\01.SumOfThreeInt.exe
+C:\Terelik\04.Console Input Output\01.SumOfThreeInt\obj\x86\Debug\01.SumOfThreeInt.pdb

@@ -1,0 +1,5 @@
+C:\Terelik\03.Operators and Expressions\03.RectangleArea\bin\Debug\03.RectangleArea.exe
+C:\Terelik\03.Operators and Expressions\03.RectangleArea\bin\Debug\03.RectangleArea.pdb
+C:\Terelik\03.Operators and Expressions\03.RectangleArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\03.Operators and Expressions\03.RectangleArea\obj\x86\Debug\03.RectangleArea.exe
+C:\Terelik\03.Operators and Expressions\03.RectangleArea\obj\x86\Debug\03.RectangleArea.pdb

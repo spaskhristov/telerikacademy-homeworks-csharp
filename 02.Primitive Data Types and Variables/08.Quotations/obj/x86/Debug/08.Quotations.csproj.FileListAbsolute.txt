@@ -1,0 +1,5 @@
+C:\Terelik\02.Primitive Data Types and Variables\08.Quotations\bin\Debug\08.Quotations.exe
+C:\Terelik\02.Primitive Data Types and Variables\08.Quotations\bin\Debug\08.Quotations.pdb
+C:\Terelik\02.Primitive Data Types and Variables\08.Quotations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\02.Primitive Data Types and Variables\08.Quotations\obj\x86\Debug\08.Quotations.exe
+C:\Terelik\02.Primitive Data Types and Variables\08.Quotations\obj\x86\Debug\08.Quotations.pdb

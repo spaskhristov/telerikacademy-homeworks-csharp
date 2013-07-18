@@ -1,0 +1,17 @@
+10. Provide a short list with information about the most popular programming 
+languages. How do they differ from C#?
+
+Answer:
+C# is one of the newest programming languages. 
+Microsoft says that C# brings the power of C++ with the ease of Visual Basic.
+ C# might not be as easy as Visual Basic 6, but it is as easy as Visual Basic .NET 
+ (version 7), which was rewritten from the ground up. The end result is that Visual 
+ Basic is really no easier than programming C#. In fact, you can actually write many 
+ programs with less code using C#.
+C# was meant to be an advance over both C++ and Java as a general purpose programming 
+language. Although it can be argued that some of its features are a step backward, C# 
+clearly includes some constructs that move it beyond its predecessors. 
+Although C# removes some of the features of C++ that cause programmers a lot of grief,
+ no power or functionality was really lost. Some of the programming errors that are 
+ easy to create in C++ can be totally avoided in C#. 
+Java, like C++ and C#, is based on C. A lot of what you learn about C# can be applied.

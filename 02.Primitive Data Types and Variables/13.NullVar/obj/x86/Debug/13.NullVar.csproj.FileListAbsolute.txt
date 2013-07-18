@@ -1,0 +1,5 @@
+C:\Terelik\02.Primitive Data Types and Variables\13.NullVar\bin\Debug\13.NullVar.exe
+C:\Terelik\02.Primitive Data Types and Variables\13.NullVar\bin\Debug\13.NullVar.pdb
+C:\Terelik\02.Primitive Data Types and Variables\13.NullVar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\02.Primitive Data Types and Variables\13.NullVar\obj\x86\Debug\13.NullVar.exe
+C:\Terelik\02.Primitive Data Types and Variables\13.NullVar\obj\x86\Debug\13.NullVar.pdb

@@ -1,0 +1,5 @@
+C:\Terelik\04.Console Input Output\05.MaxTwoInt\bin\Debug\05.MaxTwoInt.exe
+C:\Terelik\04.Console Input Output\05.MaxTwoInt\bin\Debug\05.MaxTwoInt.pdb
+C:\Terelik\04.Console Input Output\05.MaxTwoInt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\04.Console Input Output\05.MaxTwoInt\obj\x86\Debug\05.MaxTwoInt.exe
+C:\Terelik\04.Console Input Output\05.MaxTwoInt\obj\x86\Debug\05.MaxTwoInt.pdb
