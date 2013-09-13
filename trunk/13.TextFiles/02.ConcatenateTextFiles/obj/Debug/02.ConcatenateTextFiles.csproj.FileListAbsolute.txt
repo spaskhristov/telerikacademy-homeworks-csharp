@@ -1,0 +1,6 @@
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.csprojResolveAssemblyReference.cache

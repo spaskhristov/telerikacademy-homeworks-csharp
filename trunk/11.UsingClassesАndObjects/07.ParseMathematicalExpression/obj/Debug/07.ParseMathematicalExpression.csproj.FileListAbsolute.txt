@@ -1,0 +1,6 @@
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\07.ParseMathematicalExpression\bin\Debug\07.ParseMathematicalExpression.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\07.ParseMathematicalExpression\bin\Debug\07.ParseMathematicalExpression.exe
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\07.ParseMathematicalExpression\bin\Debug\07.ParseMathematicalExpression.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\07.ParseMathematicalExpression\obj\Debug\07.ParseMathematicalExpression.csprojResolveAssemblyReference.cache
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\07.ParseMathematicalExpression\obj\Debug\07.ParseMathematicalExpression.exe
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\07.ParseMathematicalExpression\obj\Debug\07.ParseMathematicalExpression.pdb

@@ -1,0 +1,10 @@
+C:\Terelik\07.Arrays\06.MaximalSum\bin\Debug\06.MaximalSum.exe
+C:\Terelik\07.Arrays\06.MaximalSum\bin\Debug\06.MaximalSum.pdb
+C:\Terelik\07.Arrays\06.MaximalSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\07.Arrays\06.MaximalSum\obj\x86\Debug\06.MaximalSum.exe
+C:\Terelik\07.Arrays\06.MaximalSum\obj\x86\Debug\06.MaximalSum.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\06.MaximalSum\obj\x86\Debug\06.MaximalSum.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\06.MaximalSum\obj\x86\Debug\06.MaximalSum.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\06.MaximalSum\bin\Debug\06.MaximalSum.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\06.MaximalSum\bin\Debug\06.MaximalSum.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\06.MaximalSum\obj\x86\Debug\06.MaximalSum.csprojResolveAssemblyReference.cache

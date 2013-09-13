@@ -1,0 +1,5 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\20.ExtractAllPalindromes\bin\Debug\20.ExtractAllPalindromes.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\20.ExtractAllPalindromes\bin\Debug\20.ExtractAllPalindromes.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\20.ExtractAllPalindromes\bin\Debug\20.ExtractAllPalindromes.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\20.ExtractAllPalindromes\obj\Debug\20.ExtractAllPalindromes.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\20.ExtractAllPalindromes\obj\Debug\20.ExtractAllPalindromes.pdb

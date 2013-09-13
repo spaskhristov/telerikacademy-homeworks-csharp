@@ -1,0 +1,5 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\23.SortAllWords\bin\Debug\23.SortAllWords.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\23.SortAllWords\bin\Debug\23.SortAllWords.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\23.SortAllWords\bin\Debug\23.SortAllWords.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\23.SortAllWords\obj\Debug\23.SortAllWords.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\23.SortAllWords\obj\Debug\23.SortAllWords.pdb

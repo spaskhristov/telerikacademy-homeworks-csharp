@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\18.ExtractAllEmails\bin\Debug\18.ExtractAllEmails.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\18.ExtractAllEmails\bin\Debug\18.ExtractAllEmails.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\18.ExtractAllEmails\bin\Debug\18.ExtractAllEmails.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\18.ExtractAllEmails\obj\Debug\18.ExtractAllEmails.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\18.ExtractAllEmails\obj\Debug\18.ExtractAllEmails.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\18.ExtractAllEmails\obj\Debug\18.ExtractAllEmails.csprojResolveAssemblyReference.cache

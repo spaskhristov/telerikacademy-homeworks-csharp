@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\08.BinaryRepresentation\bin\Debug\08.BinaryRepresentation.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\08.BinaryRepresentation\bin\Debug\08.BinaryRepresentation.exe
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\08.BinaryRepresentation\bin\Debug\08.BinaryRepresentation.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\08.BinaryRepresentation\obj\Debug\08.BinaryRepresentation.exe
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\08.BinaryRepresentation\obj\Debug\08.BinaryRepresentation.pdb

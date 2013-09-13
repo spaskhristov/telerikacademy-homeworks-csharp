@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\05.ToUpperCaseTags\bin\Debug\05.ToUpperCaseTags.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\05.ToUpperCaseTags\bin\Debug\05.ToUpperCaseTags.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\05.ToUpperCaseTags\bin\Debug\05.ToUpperCaseTags.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\05.ToUpperCaseTags\obj\Debug\05.ToUpperCaseTags.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\05.ToUpperCaseTags\obj\Debug\05.ToUpperCaseTags.pdb

@@ -1,0 +1,11 @@
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\03.GetLastDigit\bin\Debug\03.GetLastDigit.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\03.GetLastDigit\bin\Debug\03.GetLastDigit.exe
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\03.GetLastDigit\bin\Debug\03.GetLastDigit.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\03.GetLastDigit\obj\Debug\03.GetLastDigit.exe
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\03.GetLastDigit\obj\Debug\03.GetLastDigit.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\03.GetLastDigit\bin\Debug\03.GetLastDigit.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\03.GetLastDigit\obj\Debug\03.GetLastDigit.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\03.GetLastDigit\obj\Debug\03.GetLastDigit.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\03.GetLastDigit\bin\Debug\03.GetLastDigit.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\03.GetLastDigit\bin\Debug\03.GetLastDigit.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\03.GetLastDigit\obj\Debug\03.GetLastDigit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\07.BaseStoBaseD\bin\Debug\07.BaseStoBaseD.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\07.BaseStoBaseD\bin\Debug\07.BaseStoBaseD.exe
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\07.BaseStoBaseD\bin\Debug\07.BaseStoBaseD.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\07.BaseStoBaseD\obj\Debug\07.BaseStoBaseD.csprojResolveAssemblyReference.cache
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\07.BaseStoBaseD\obj\Debug\07.BaseStoBaseD.exe
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\07.BaseStoBaseD\obj\Debug\07.BaseStoBaseD.pdb

@@ -1,0 +1,4 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\17.SubSetSumHarder\bin\Debug\17.SubSetSumHarder.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\17.SubSetSumHarder\bin\Debug\17.SubSetSumHarder.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\17.SubSetSumHarder\obj\x86\Debug\17.SubSetSumHarder.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\17.SubSetSumHarder\obj\x86\Debug\17.SubSetSumHarder.pdb

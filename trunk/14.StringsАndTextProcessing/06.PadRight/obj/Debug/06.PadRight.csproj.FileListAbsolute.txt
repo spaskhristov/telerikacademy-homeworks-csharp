@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\06.PadRight\bin\Debug\06.PadRight.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\06.PadRight\bin\Debug\06.PadRight.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\06.PadRight\bin\Debug\06.PadRight.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\06.PadRight\obj\Debug\06.PadRight.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\06.PadRight\obj\Debug\06.PadRight.pdb

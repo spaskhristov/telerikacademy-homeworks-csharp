@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\06.ParseStringOfNumbers\bin\Debug\06.ParseStringOfNumbers.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\06.ParseStringOfNumbers\bin\Debug\06.ParseStringOfNumbers.exe
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\06.ParseStringOfNumbers\bin\Debug\06.ParseStringOfNumbers.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\06.ParseStringOfNumbers\obj\Debug\06.ParseStringOfNumbers.exe
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\06.ParseStringOfNumbers\obj\Debug\06.ParseStringOfNumbers.pdb

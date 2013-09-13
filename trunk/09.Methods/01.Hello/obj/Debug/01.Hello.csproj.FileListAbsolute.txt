@@ -1,0 +1,12 @@
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\01.Hello\bin\Debug\01.Hello.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\01.Hello\bin\Debug\01.Hello.exe
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\01.Hello\bin\Debug\01.Hello.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\01.Hello\obj\Debug\01.Hello.csprojResolveAssemblyReference.cache
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\01.Hello\obj\Debug\01.Hello.exe
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\01.Hello\obj\Debug\01.Hello.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\01.Hello\bin\Debug\01.Hello.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\01.Hello\obj\Debug\01.Hello.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\01.Hello\obj\Debug\01.Hello.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\01.Hello\bin\Debug\01.Hello.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\01.Hello\bin\Debug\01.Hello.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\01.Hello\obj\Debug\01.Hello.csprojResolveAssemblyReference.cache

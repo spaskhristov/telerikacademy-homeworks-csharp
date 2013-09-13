@@ -1,0 +1,5 @@
+C:\Terelik\07.Arrays\03.CharCompare\bin\Debug\03.CharCompare.exe
+C:\Terelik\07.Arrays\03.CharCompare\bin\Debug\03.CharCompare.pdb
+C:\Terelik\07.Arrays\03.CharCompare\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\07.Arrays\03.CharCompare\obj\x86\Debug\03.CharCompare.exe
+C:\Terelik\07.Arrays\03.CharCompare\obj\x86\Debug\03.CharCompare.pdb

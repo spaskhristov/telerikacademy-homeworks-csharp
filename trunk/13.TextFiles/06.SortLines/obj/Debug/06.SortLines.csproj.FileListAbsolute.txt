@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\06.SortLines\bin\Debug\06.SortLines.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\06.SortLines\bin\Debug\06.SortLines.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\06.SortLines\bin\Debug\06.SortLines.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\06.SortLines\obj\Debug\06.SortLines.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\06.SortLines\obj\Debug\06.SortLines.pdb

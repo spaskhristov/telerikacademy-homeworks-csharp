@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\03.CheckValidBrackets\bin\Debug\03.CheckValidBrackets.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\03.CheckValidBrackets\bin\Debug\03.CheckValidBrackets.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\03.CheckValidBrackets\bin\Debug\03.CheckValidBrackets.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\03.CheckValidBrackets\obj\Debug\03.CheckValidBrackets.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\03.CheckValidBrackets\obj\Debug\03.CheckValidBrackets.pdb

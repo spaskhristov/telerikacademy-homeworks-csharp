@@ -1,0 +1,6 @@
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\01.Base10toBase2\bin\Debug\01.Base10toBase2.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\01.Base10toBase2\bin\Debug\01.Base10toBase2.exe
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\01.Base10toBase2\bin\Debug\01.Base10toBase2.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\01.Base10toBase2\obj\Debug\01.Base10toBase2.csprojResolveAssemblyReference.cache
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\01.Base10toBase2\obj\Debug\01.Base10toBase2.exe
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\01.Base10toBase2\obj\Debug\01.Base10toBase2.pdb

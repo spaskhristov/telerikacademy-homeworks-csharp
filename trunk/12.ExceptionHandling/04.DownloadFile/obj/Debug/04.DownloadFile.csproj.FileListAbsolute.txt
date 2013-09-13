@@ -1,0 +1,5 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\12.ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\12.ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\12.ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\12.ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\12.ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.pdb

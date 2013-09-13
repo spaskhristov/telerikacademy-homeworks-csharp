@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\21.CountOccurrencesОfAllLetters\bin\Debug\21.CountOccurrencesОfAllLetters.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\21.CountOccurrencesОfAllLetters\bin\Debug\21.CountOccurrencesОfAllLetters.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\21.CountOccurrencesОfAllLetters\bin\Debug\21.CountOccurrencesОfAllLetters.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\21.CountOccurrencesОfAllLetters\obj\Debug\21.CountOccurrencesОfAllLetters.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\21.CountOccurrencesОfAllLetters\obj\Debug\21.CountOccurrencesОfAllLetters.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\21.CountOccurrencesОfAllLetters\obj\Debug\21.CountOccurrencesОfAllLetters.pdb

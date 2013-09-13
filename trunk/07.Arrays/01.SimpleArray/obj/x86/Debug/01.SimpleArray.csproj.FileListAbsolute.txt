@@ -1,0 +1,7 @@
+C:\Terelik\07.Arrays\01.SimpleArray\bin\Debug\01.SimpleArray.exe
+C:\Terelik\07.Arrays\01.SimpleArray\bin\Debug\01.SimpleArray.pdb
+C:\Terelik\07.Arrays\01.SimpleArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\07.Arrays\01.SimpleArray\obj\x86\Debug\01.SimpleArray.exe
+C:\Terelik\07.Arrays\01.SimpleArray\obj\x86\Debug\01.SimpleArray.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\01.SimpleArray\obj\x86\Debug\01.SimpleArray.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\01.SimpleArray\obj\x86\Debug\01.SimpleArray.pdb

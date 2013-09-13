@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\05.NumberOfWorkdays\bin\Debug\05.NumberOfWorkdays.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\05.NumberOfWorkdays\bin\Debug\05.NumberOfWorkdays.exe
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\05.NumberOfWorkdays\bin\Debug\05.NumberOfWorkdays.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\05.NumberOfWorkdays\obj\Debug\05.NumberOfWorkdays.exe
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\05.NumberOfWorkdays\obj\Debug\05.NumberOfWorkdays.pdb

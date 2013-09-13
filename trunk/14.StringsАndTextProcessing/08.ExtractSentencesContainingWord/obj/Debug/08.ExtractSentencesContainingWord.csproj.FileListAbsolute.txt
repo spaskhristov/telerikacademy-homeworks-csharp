@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\08.ExtractSentencesContainingWord\bin\Debug\08.ExtractSentencesContainingWord.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\08.ExtractSentencesContainingWord\bin\Debug\08.ExtractSentencesContainingWord.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\08.ExtractSentencesContainingWord\bin\Debug\08.ExtractSentencesContainingWord.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\08.ExtractSentencesContainingWord\obj\Debug\08.ExtractSentencesContainingWord.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\08.ExtractSentencesContainingWord\obj\Debug\08.ExtractSentencesContainingWord.pdb

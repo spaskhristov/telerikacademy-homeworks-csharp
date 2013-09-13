@@ -1,0 +1,5 @@
+C:\Terelik\07.Arrays\04.LongestSequenceOfEqualElements\bin\Debug\04.LongestSequenceOfEqualElements.exe
+C:\Terelik\07.Arrays\04.LongestSequenceOfEqualElements\bin\Debug\04.LongestSequenceOfEqualElements.pdb
+C:\Terelik\07.Arrays\04.LongestSequenceOfEqualElements\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\07.Arrays\04.LongestSequenceOfEqualElements\obj\x86\Debug\04.LongestSequenceOfEqualElements.exe
+C:\Terelik\07.Arrays\04.LongestSequenceOfEqualElements\obj\x86\Debug\04.LongestSequenceOfEqualElements.pdb

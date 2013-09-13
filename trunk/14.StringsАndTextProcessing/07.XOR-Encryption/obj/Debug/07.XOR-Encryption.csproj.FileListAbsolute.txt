@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\07.XOR-Encryption\bin\Debug\07.XOR-Encryption.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\07.XOR-Encryption\bin\Debug\07.XOR-Encryption.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\07.XOR-Encryption\bin\Debug\07.XOR-Encryption.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\07.XOR-Encryption\obj\Debug\07.XOR-Encryption.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\07.XOR-Encryption\obj\Debug\07.XOR-Encryption.pdb

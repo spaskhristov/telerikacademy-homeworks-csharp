@@ -1,0 +1,5 @@
+C:\Terelik\07.Arrays\02.TwoArrayCompare\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\07.Arrays\02.TwoArrayCompare\bin\Debug\02.TwoArrayCompare.exe
+C:\Terelik\07.Arrays\02.TwoArrayCompare\bin\Debug\02.TwoArrayCompare.pdb
+C:\Terelik\07.Arrays\02.TwoArrayCompare\obj\x86\Debug\02.TwoArrayCompare.exe
+C:\Terelik\07.Arrays\02.TwoArrayCompare\obj\x86\Debug\02.TwoArrayCompare.pdb

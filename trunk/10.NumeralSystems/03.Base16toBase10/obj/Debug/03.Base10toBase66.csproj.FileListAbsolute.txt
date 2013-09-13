@@ -1,0 +1,3 @@
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\03.Base16toBase10\bin\Debug\03.Base16toBase10.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\03.Base16toBase10\obj\Debug\03.Base16toBase10.exe
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\03.Base16toBase10\obj\Debug\03.Base16toBase10.pdb

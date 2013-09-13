@@ -1,0 +1,7 @@
+C:\Terelik\07.Arrays\09.Mode\bin\Debug\09.Mode.exe
+C:\Terelik\07.Arrays\09.Mode\bin\Debug\09.Mode.pdb
+C:\Terelik\07.Arrays\09.Mode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\07.Arrays\09.Mode\obj\x86\Debug\09.Mode.exe
+C:\Terelik\07.Arrays\09.Mode\obj\x86\Debug\09.Mode.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\09.Mode\obj\x86\Debug\09.Mode.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\09.Mode\obj\x86\Debug\09.Mode.pdb

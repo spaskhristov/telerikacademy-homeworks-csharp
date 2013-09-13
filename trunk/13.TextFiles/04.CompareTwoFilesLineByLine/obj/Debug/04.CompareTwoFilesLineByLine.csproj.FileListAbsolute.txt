@@ -1,0 +1,6 @@
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\04.CompareTwoFilesLineByLine\bin\Debug\04.CompareTwoFilesLineByLine.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\04.CompareTwoFilesLineByLine\bin\Debug\04.CompareTwoFilesLineByLine.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\04.CompareTwoFilesLineByLine\bin\Debug\04.CompareTwoFilesLineByLine.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\04.CompareTwoFilesLineByLine\obj\Debug\04.CompareTwoFilesLineByLine.csprojResolveAssemblyReference.cache
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\04.CompareTwoFilesLineByLine\obj\Debug\04.CompareTwoFilesLineByLine.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\04.CompareTwoFilesLineByLine\obj\Debug\04.CompareTwoFilesLineByLine.pdb

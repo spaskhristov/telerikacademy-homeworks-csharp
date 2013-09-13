@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\08.SumNumbersRepresentedAsArrays\bin\Debug\08.SumNumbersRepresentedAsArrays.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\08.SumNumbersRepresentedAsArrays\bin\Debug\08.SumNumbersRepresentedAsArrays.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\08.SumNumbersRepresentedAsArrays\bin\Debug\08.SumNumbersRepresentedAsArrays.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\08.SumNumbersRepresentedAsArrays\obj\Debug\08.SumNumbersRepresentedAsArrays.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\08.SumNumbersRepresentedAsArrays\obj\Debug\08.SumNumbersRepresentedAsArrays.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\08.SumNumbersRepresentedAsArrays\obj\Debug\08.SumNumbersRepresentedAsArrays.pdb

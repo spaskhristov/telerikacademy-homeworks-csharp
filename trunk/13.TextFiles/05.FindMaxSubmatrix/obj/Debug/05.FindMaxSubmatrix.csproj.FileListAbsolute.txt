@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\05.FindMaxSubmatrix\bin\Debug\05.FindMaxSubmatrix.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\05.FindMaxSubmatrix\bin\Debug\05.FindMaxSubmatrix.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\05.FindMaxSubmatrix\bin\Debug\05.FindMaxSubmatrix.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\05.FindMaxSubmatrix\obj\Debug\05.FindMaxSubmatrix.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\05.FindMaxSubmatrix\obj\Debug\05.FindMaxSubmatrix.pdb

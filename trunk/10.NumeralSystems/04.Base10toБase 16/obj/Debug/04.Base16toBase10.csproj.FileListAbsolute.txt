@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\04.Base10toБase 16\bin\Debug\04.Base10toБase 16.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\04.Base10toБase 16\bin\Debug\04.Base10toБase 16.exe
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\04.Base10toБase 16\bin\Debug\04.Base10toБase 16.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\04.Base10toБase 16\obj\Debug\04.Base10toБase 16.exe
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\04.Base10toБase 16\obj\Debug\04.Base10toБase 16.pdb

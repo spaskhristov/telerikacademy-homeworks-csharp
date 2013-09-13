@@ -1,0 +1,7 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\04.Test\bin\Debug\04.Test.dll
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\04.Test\bin\Debug\04.Test.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\04.Test\bin\Debug\04.CountRepeatingValues.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\04.Test\bin\Debug\04.CountRepeatingValues.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\04.Test\obj\Debug\04.Test.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\04.Test\obj\Debug\04.Test.dll
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\04.Test\obj\Debug\04.Test.pdb

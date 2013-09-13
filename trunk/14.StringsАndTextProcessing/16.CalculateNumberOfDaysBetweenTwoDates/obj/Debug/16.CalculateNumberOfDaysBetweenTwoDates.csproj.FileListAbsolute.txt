@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\16.CalculateNumberOfDaysBetweenTwoDates\bin\Debug\16.CalculateNumberOfDaysBetweenTwoDates.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\16.CalculateNumberOfDaysBetweenTwoDates\bin\Debug\16.CalculateNumberOfDaysBetweenTwoDates.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\16.CalculateNumberOfDaysBetweenTwoDates\bin\Debug\16.CalculateNumberOfDaysBetweenTwoDates.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\16.CalculateNumberOfDaysBetweenTwoDates\obj\Debug\16.CalculateNumberOfDaysBetweenTwoDates.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\16.CalculateNumberOfDaysBetweenTwoDates\obj\Debug\16.CalculateNumberOfDaysBetweenTwoDates.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\16.CalculateNumberOfDaysBetweenTwoDates\obj\Debug\16.CalculateNumberOfDaysBetweenTwoDates.csprojResolveAssemblyReference.cache

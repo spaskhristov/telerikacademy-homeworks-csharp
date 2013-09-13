@@ -1,0 +1,6 @@
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\06.Base2toBase16\bin\Debug\06.Base2toBase16.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\06.Base2toBase16\bin\Debug\06.Base2toBase16.exe
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\06.Base2toBase16\bin\Debug\06.Base2toBase16.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\06.Base2toBase16\obj\Debug\06.Base2toBase16.exe
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\06.Base2toBase16\obj\Debug\06.Base2toBase16.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\10.NumeralSystems\06.Base2toBase16\obj\Debug\06.Base2toBase16.csprojResolveAssemblyReference.cache

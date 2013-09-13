@@ -1,0 +1,10 @@
+C:\Terelik\08.Multidimensional-Arrays\05.StringLenSort\bin\Debug\05.StringLenSort.exe
+C:\Terelik\08.Multidimensional-Arrays\05.StringLenSort\bin\Debug\05.StringLenSort.pdb
+C:\Terelik\08.Multidimensional-Arrays\05.StringLenSort\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\08.Multidimensional-Arrays\05.StringLenSort\obj\x86\Debug\05.StringLenSort.exe
+C:\Terelik\08.Multidimensional-Arrays\05.StringLenSort\obj\x86\Debug\05.StringLenSort.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\05.StringLenSort\obj\x86\Debug\05.StringLenSort.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\05.StringLenSort\obj\x86\Debug\05.StringLenSort.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\05.StringLenSort\bin\Debug\05.StringLenSort.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\05.StringLenSort\bin\Debug\05.StringLenSort.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\05.StringLenSort\obj\x86\Debug\05.StringLenSort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\23.ReplaceConsecutiveLetters\bin\Debug\23.ReplaceConsecutiveLetters.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\23.ReplaceConsecutiveLetters\bin\Debug\23.ReplaceConsecutiveLetters.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\23.ReplaceConsecutiveLetters\bin\Debug\23.ReplaceConsecutiveLetters.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\23.ReplaceConsecutiveLetters\obj\Debug\23.ReplaceConsecutiveLetters.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\23.ReplaceConsecutiveLetters\obj\Debug\23.ReplaceConsecutiveLetters.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\23.ReplaceConsecutiveLetters\obj\Debug\23.ReplaceConsecutiveLetters.csprojResolveAssemblyReference.cache

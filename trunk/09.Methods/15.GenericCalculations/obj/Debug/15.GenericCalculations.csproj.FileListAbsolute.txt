@@ -1,0 +1,5 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\15.GenericCalculations\bin\Debug\15.GenericCalculations.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\15.GenericCalculations\bin\Debug\15.GenericCalculations.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\15.GenericCalculations\bin\Debug\15.GenericCalculations.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\15.GenericCalculations\obj\Debug\15.GenericCalculations.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\15.GenericCalculations\obj\Debug\15.GenericCalculations.pdb

@@ -1,0 +1,5 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\12.ExceptionHandling\03.WriteFileToConsole\bin\Debug\03.WriteFileToConsole.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\12.ExceptionHandling\03.WriteFileToConsole\bin\Debug\03.WriteFileToConsole.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\12.ExceptionHandling\03.WriteFileToConsole\bin\Debug\03.WriteFileToConsole.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\12.ExceptionHandling\03.WriteFileToConsole\obj\Debug\03.WriteFileToConsole.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\12.ExceptionHandling\03.WriteFileToConsole\obj\Debug\03.WriteFileToConsole.pdb

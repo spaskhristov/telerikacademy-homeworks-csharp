@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\07.ReplaceSubstring\bin\Debug\07.ReplaceSubstring.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\07.ReplaceSubstring\bin\Debug\07.ReplaceSubstring.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\07.ReplaceSubstring\bin\Debug\07.ReplaceSubstring.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\07.ReplaceSubstring\obj\Debug\07.ReplaceSubstring.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\07.ReplaceSubstring\obj\Debug\07.ReplaceSubstring.pdb

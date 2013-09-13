@@ -1,0 +1,5 @@
+C:\Terelik\07.Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe
+C:\Terelik\07.Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.pdb
+C:\Terelik\07.Arrays\05.MaximalIncreasingSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\07.Arrays\05.MaximalIncreasingSequence\obj\x86\Debug\05.MaximalIncreasingSequence.exe
+C:\Terelik\07.Arrays\05.MaximalIncreasingSequence\obj\x86\Debug\05.MaximalIncreasingSequence.pdb

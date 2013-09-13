@@ -1,0 +1,5 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\14.ParseDictionary\bin\Debug\14.ParseDictionary.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\14.ParseDictionary\bin\Debug\14.ParseDictionary.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\14.ParseDictionary\bin\Debug\14.ParseDictionary.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\14.ParseDictionary\obj\Debug\14.ParseDictionary.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\14.ParseDictionary\obj\Debug\14.ParseDictionary.pdb
