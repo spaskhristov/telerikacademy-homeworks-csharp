@@ -1,0 +1,7 @@
+C:\Terelik\08.Multidimensional-Arrays\02.MaxSubmatrixSum\bin\Debug\02.MaxSubmatrixSum.exe
+C:\Terelik\08.Multidimensional-Arrays\02.MaxSubmatrixSum\bin\Debug\02.MaxSubmatrixSum.pdb
+C:\Terelik\08.Multidimensional-Arrays\02.MaxSubmatrixSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\08.Multidimensional-Arrays\02.MaxSubmatrixSum\obj\x86\Debug\02.MaxSubmatrixSum.exe
+C:\Terelik\08.Multidimensional-Arrays\02.MaxSubmatrixSum\obj\x86\Debug\02.MaxSubmatrixSum.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\02.MaxSubmatrixSum\obj\x86\Debug\02.MaxSubmatrixSum.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\02.MaxSubmatrixSum\obj\x86\Debug\02.MaxSubmatrixSum.pdb

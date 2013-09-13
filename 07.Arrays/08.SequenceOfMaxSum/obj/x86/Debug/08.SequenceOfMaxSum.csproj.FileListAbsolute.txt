@@ -1,0 +1,9 @@
+C:\Terelik\07.Arrays\08.SequenceOfMaxSum\bin\Debug\08.SequenceOfMaxSum.exe
+C:\Terelik\07.Arrays\08.SequenceOfMaxSum\bin\Debug\08.SequenceOfMaxSum.pdb
+C:\Terelik\07.Arrays\08.SequenceOfMaxSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\07.Arrays\08.SequenceOfMaxSum\obj\x86\Debug\08.SequenceOfMaxSum.exe
+C:\Terelik\07.Arrays\08.SequenceOfMaxSum\obj\x86\Debug\08.SequenceOfMaxSum.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\08.SequenceOfMaxSum\obj\x86\Debug\08.SequenceOfMaxSum.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\08.SequenceOfMaxSum\obj\x86\Debug\08.SequenceOfMaxSum.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\08.SequenceOfMaxSum\bin\Debug\08.SequenceOfMaxSum.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\08.SequenceOfMaxSum\bin\Debug\08.SequenceOfMaxSum.pdb

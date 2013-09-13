@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\05.CompareWithNeighbors\bin\Debug\05.CompareWithNeighbors.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\05.CompareWithNeighbors\bin\Debug\05.CompareWithNeighbors.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\05.CompareWithNeighbors\bin\Debug\05.CompareWithNeighbors.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\05.CompareWithNeighbors\obj\Debug\05.CompareWithNeighbors.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\05.CompareWithNeighbors\obj\Debug\05.CompareWithNeighbors.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\05.CompareWithNeighbors\obj\Debug\05.CompareWithNeighbors.pdb

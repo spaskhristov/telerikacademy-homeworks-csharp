@@ -1,0 +1,27 @@
+1.Write a program that reads a text file and prints on the console its odd lines.
+2.Write a program that concatenates two text files into another text file.
+3.Write a program that reads a text file and inserts line numbers in front 
+of each of its lines. The result should be written to another text file.
+4.Write a program that compares two text files line by line and prints the 
+number of lines that are the same and the number of lines that are different.
+ Assume the files have equal number of lines.
+5.Write a program that reads a text file containing a list of strings,
+ sorts them and saves them to another text file. Example:
+
+ 
+6.Write a program that replaces all occurrences of the substring "start" with 
+the substring "finish" in a text file. Ensure it will work with large files (e.g. 100 MB).
+7.Modify the solution of the previous problem to replace only whole words (not substrings).
+Streams are the main I/O mechanisms
+The StreamReader class and ReadLine() method are used t
+o read text files
+The StreamWriter class and WriteLine() method are used to write text files
+Always put file handling in using(…) block
+Exceptions are unusual events or error 
+Write a program that removes from a text file all words listed
+ in given another text file. Handle all possible exceptions in your methods.
+Write a program that reads a list of words from a file words.txt and finds how
+ many times each of the words is contained in another file test.txt. The result
+ should be written in the file result.txt and the words should be sorted by the
+ number of their occurrences in descending order. Handle all possible exceptions
+ in your methods.

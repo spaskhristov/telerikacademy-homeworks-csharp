@@ -1,0 +1,8 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\06.GetFirstElementBiggerThanNeighbors\bin\Debug\06.GetFirstElementBiggerThanNeighbors.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\06.GetFirstElementBiggerThanNeighbors\bin\Debug\06.GetFirstElementBiggerThanNeighbors.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\06.GetFirstElementBiggerThanNeighbors\bin\Debug\06.GetFirstElementBiggerThanNeighbors.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\06.GetFirstElementBiggerThanNeighbors\bin\Debug\05.CompareWithNeighbors.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\06.GetFirstElementBiggerThanNeighbors\bin\Debug\05.CompareWithNeighbors.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\06.GetFirstElementBiggerThanNeighbors\obj\Debug\06.GetFirstElementBiggerThanNeighbors.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\06.GetFirstElementBiggerThanNeighbors\obj\Debug\06.GetFirstElementBiggerThanNeighbors.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\06.GetFirstElementBiggerThanNeighbors\obj\Debug\06.GetFirstElementBiggerThanNeighbors.pdb

@@ -1,0 +1,5 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\17.FormatDateInGivenCulture\bin\Debug\17.FormatDateInGivenCulture.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\17.FormatDateInGivenCulture\bin\Debug\17.FormatDateInGivenCulture.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\17.FormatDateInGivenCulture\bin\Debug\17.FormatDateInGivenCulture.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\17.FormatDateInGivenCulture\obj\Debug\17.FormatDateInGivenCulture.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\17.FormatDateInGivenCulture\obj\Debug\17.FormatDateInGivenCulture.pdb

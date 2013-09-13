@@ -1,0 +1,5 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\15.ReplaceHTMLAnchorTags\bin\Debug\15.ReplaceHTMLAnchorTags.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\15.ReplaceHTMLAnchorTags\bin\Debug\15.ReplaceHTMLAnchorTags.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\15.ReplaceHTMLAnchorTags\bin\Debug\15.ReplaceHTMLAnchorTags.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\15.ReplaceHTMLAnchorTags\obj\Debug\15.ReplaceHTMLAnchorTags.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\15.ReplaceHTMLAnchorTags\obj\Debug\15.ReplaceHTMLAnchorTags.pdb

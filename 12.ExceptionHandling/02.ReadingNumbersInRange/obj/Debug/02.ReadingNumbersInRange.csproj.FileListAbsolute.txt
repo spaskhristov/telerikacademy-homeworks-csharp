@@ -1,0 +1,6 @@
+c:\users\tttt\documents\visual studio 2012\Projects\12.ExceptionHandling\02.ReadingNumbersInRange\bin\Debug\02.ReadingNumbersInRange.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\12.ExceptionHandling\02.ReadingNumbersInRange\bin\Debug\02.ReadingNumbersInRange.exe
+c:\users\tttt\documents\visual studio 2012\Projects\12.ExceptionHandling\02.ReadingNumbersInRange\bin\Debug\02.ReadingNumbersInRange.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\12.ExceptionHandling\02.ReadingNumbersInRange\obj\Debug\02.ReadingNumbersInRange.exe
+c:\users\tttt\documents\visual studio 2012\Projects\12.ExceptionHandling\02.ReadingNumbersInRange\obj\Debug\02.ReadingNumbersInRange.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\12.ExceptionHandling\02.ReadingNumbersInRange\obj\Debug\02.ReadingNumbersInRange.csprojResolveAssemblyReference.cache

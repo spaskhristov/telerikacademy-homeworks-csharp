@@ -1,0 +1,5 @@
+C:\Terelik\07.Arrays\10.SequenseEqualToSum\bin\Debug\10.SequenseEqualToSum.exe
+C:\Terelik\07.Arrays\10.SequenseEqualToSum\bin\Debug\10.SequenseEqualToSum.pdb
+C:\Terelik\07.Arrays\10.SequenseEqualToSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\07.Arrays\10.SequenseEqualToSum\obj\x86\Debug\10.SequenseEqualToSum.exe
+C:\Terelik\07.Arrays\10.SequenseEqualToSum\obj\x86\Debug\10.SequenseEqualToSum.pdb

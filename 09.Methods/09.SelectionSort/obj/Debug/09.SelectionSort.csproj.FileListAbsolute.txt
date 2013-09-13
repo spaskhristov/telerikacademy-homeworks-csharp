@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\09.SelectionSort\bin\Debug\09.SelectionSort.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\09.SelectionSort\bin\Debug\09.SelectionSort.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\09.SelectionSort\bin\Debug\09.SelectionSort.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\09.SelectionSort\obj\Debug\09.SelectionSort.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\09.SelectionSort\obj\Debug\09.SelectionSort.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\09.SelectionSort\obj\Debug\09.SelectionSort.csprojResolveAssemblyReference.cache

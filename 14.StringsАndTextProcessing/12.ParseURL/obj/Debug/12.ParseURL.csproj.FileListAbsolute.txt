@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.pdb

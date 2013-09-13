@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\12.DeleteGivenWordsFromTextFile\bin\Debug\12.DeleteGivenWordsFromTextFile.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\12.DeleteGivenWordsFromTextFile\bin\Debug\12.DeleteGivenWordsFromTextFile.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\12.DeleteGivenWordsFromTextFile\bin\Debug\12.DeleteGivenWordsFromTextFile.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\12.DeleteGivenWordsFromTextFile\obj\Debug\12.DeleteGivenWordsFromTextFile.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\12.DeleteGivenWordsFromTextFile\obj\Debug\12.DeleteGivenWordsFromTextFile.pdb

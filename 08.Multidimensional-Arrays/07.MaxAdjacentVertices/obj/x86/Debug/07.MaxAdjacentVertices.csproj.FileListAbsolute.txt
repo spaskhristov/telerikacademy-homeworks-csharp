@@ -1,0 +1,7 @@
+C:\Terelik\08.Multidimensional-Arrays\07.MaxAdjacentVertices\bin\Debug\07.MaxAdjacentVertices.exe
+C:\Terelik\08.Multidimensional-Arrays\07.MaxAdjacentVertices\bin\Debug\07.MaxAdjacentVertices.pdb
+C:\Terelik\08.Multidimensional-Arrays\07.MaxAdjacentVertices\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\08.Multidimensional-Arrays\07.MaxAdjacentVertices\obj\x86\Debug\07.MaxAdjacentVertices.exe
+C:\Terelik\08.Multidimensional-Arrays\07.MaxAdjacentVertices\obj\x86\Debug\07.MaxAdjacentVertices.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\07.MaxAdjacentVertices\obj\x86\Debug\07.MaxAdjacentVertices.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\07.MaxAdjacentVertices\obj\x86\Debug\07.MaxAdjacentVertices.pdb

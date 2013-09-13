@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\13.FindAllRepeatingWordsAndSortThemByOccurrence\bin\Debug\13.FindAllRepeatingWordsAndSortThemByOccurrence.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\13.FindAllRepeatingWordsAndSortThemByOccurrence\bin\Debug\13.FindAllRepeatingWordsAndSortThemByOccurrence.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\13.FindAllRepeatingWordsAndSortThemByOccurrence\bin\Debug\13.FindAllRepeatingWordsAndSortThemByOccurrence.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\13.FindAllRepeatingWordsAndSortThemByOccurrence\obj\Debug\13.FindAllRepeatingWordsAndSortThemByOccurrence.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\13.FindAllRepeatingWordsAndSortThemByOccurrence\obj\Debug\13.FindAllRepeatingWordsAndSortThemByOccurrence.pdb

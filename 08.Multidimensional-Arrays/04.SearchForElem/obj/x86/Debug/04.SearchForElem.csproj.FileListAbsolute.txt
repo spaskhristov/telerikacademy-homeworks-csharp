@@ -1,0 +1,7 @@
+C:\Terelik\08.Multidimensional-Arrays\04.SearchForElem\bin\Debug\04.SearchForElem.exe
+C:\Terelik\08.Multidimensional-Arrays\04.SearchForElem\bin\Debug\04.SearchForElem.pdb
+C:\Terelik\08.Multidimensional-Arrays\04.SearchForElem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\08.Multidimensional-Arrays\04.SearchForElem\obj\x86\Debug\04.SearchForElem.exe
+C:\Terelik\08.Multidimensional-Arrays\04.SearchForElem\obj\x86\Debug\04.SearchForElem.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\04.SearchForElem\obj\x86\Debug\04.SearchForElem.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\04.SearchForElem\obj\x86\Debug\04.SearchForElem.pdb

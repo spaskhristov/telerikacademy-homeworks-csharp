@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\10.ExtractTextFromXMLFile\bin\Debug\10.ExtractTextFromXMLFile.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\10.ExtractTextFromXMLFile\bin\Debug\10.ExtractTextFromXMLFile.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\10.ExtractTextFromXMLFile\bin\Debug\10.ExtractTextFromXMLFile.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\10.ExtractTextFromXMLFile\obj\Debug\10.ExtractTextFromXMLFile.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\10.ExtractTextFromXMLFile\obj\Debug\10.ExtractTextFromXMLFile.pdb

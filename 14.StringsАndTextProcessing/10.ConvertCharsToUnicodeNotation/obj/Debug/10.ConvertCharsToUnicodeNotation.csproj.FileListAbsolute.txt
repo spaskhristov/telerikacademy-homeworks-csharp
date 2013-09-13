@@ -1,0 +1,6 @@
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\10.ConvertCharsToUnicodeNotation\bin\Debug\10.ConvertCharsToUnicodeNotation.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\10.ConvertCharsToUnicodeNotation\bin\Debug\10.ConvertCharsToUnicodeNotation.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\10.ConvertCharsToUnicodeNotation\bin\Debug\10.ConvertCharsToUnicodeNotation.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\10.ConvertCharsToUnicodeNotation\obj\Debug\10.ConvertCharsToUnicodeNotation.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\10.ConvertCharsToUnicodeNotation\obj\Debug\10.ConvertCharsToUnicodeNotation.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\10.ConvertCharsToUnicodeNotation\obj\Debug\10.ConvertCharsToUnicodeNotation.csprojResolveAssemblyReference.cache

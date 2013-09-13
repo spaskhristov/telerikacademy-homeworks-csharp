@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\09.CensorText\bin\Debug\09.CensorText.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\09.CensorText\bin\Debug\09.CensorText.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\09.CensorText\bin\Debug\09.CensorText.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\09.CensorText\obj\Debug\09.CensorText.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\09.CensorText\obj\Debug\09.CensorText.pdb

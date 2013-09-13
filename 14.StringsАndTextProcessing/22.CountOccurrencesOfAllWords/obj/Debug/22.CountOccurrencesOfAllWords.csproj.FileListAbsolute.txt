@@ -1,0 +1,5 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\22.CountOccurrencesOfAllWords\bin\Debug\22.CountOccurrencesOfAllWords.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\22.CountOccurrencesOfAllWords\bin\Debug\22.CountOccurrencesOfAllWords.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\22.CountOccurrencesOfAllWords\bin\Debug\22.CountOccurrencesOfAllWords.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\22.CountOccurrencesOfAllWords\obj\Debug\22.CountOccurrencesOfAllWords.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\22.CountOccurrencesOfAllWords\obj\Debug\22.CountOccurrencesOfAllWords.pdb

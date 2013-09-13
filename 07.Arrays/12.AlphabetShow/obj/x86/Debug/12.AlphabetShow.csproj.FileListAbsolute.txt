@@ -1,0 +1,5 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\12.AlphabetShow\bin\Debug\12.AlphabetShow.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\12.AlphabetShow\bin\Debug\12.AlphabetShow.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\12.AlphabetShow\obj\x86\Debug\12.AlphabetShow.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\12.AlphabetShow\obj\x86\Debug\12.AlphabetShow.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\12.AlphabetShow\obj\x86\Debug\12.AlphabetShow.pdb

@@ -1,0 +1,4 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\21.AllCombinations\bin\Debug\21.AllCombinations.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\21.AllCombinations\bin\Debug\21.AllCombinations.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\21.AllCombinations\obj\x86\Debug\21.AllCombinations.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\21.AllCombinations\obj\x86\Debug\21.AllCombinations.pdb

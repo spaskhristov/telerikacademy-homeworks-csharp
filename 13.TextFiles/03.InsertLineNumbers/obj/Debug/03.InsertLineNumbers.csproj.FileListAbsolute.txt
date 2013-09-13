@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.exe
+c:\users\tttt\documents\visual studio 2012\Projects\13.TextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.pdb

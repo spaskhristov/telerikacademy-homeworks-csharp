@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\04.CountOccurrencesOfRepeatingSubstring\bin\Debug\04.CountOccurrencesOfRepeatingSubstring.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\04.CountOccurrencesOfRepeatingSubstring\bin\Debug\04.CountOccurrencesOfRepeatingSubstring.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\04.CountOccurrencesOfRepeatingSubstring\bin\Debug\04.CountOccurrencesOfRepeatingSubstring.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\04.CountOccurrencesOfRepeatingSubstring\obj\Debug\04.CountOccurrencesOfRepeatingSubstring.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\04.CountOccurrencesOfRepeatingSubstring\obj\Debug\04.CountOccurrencesOfRepeatingSubstring.pdb

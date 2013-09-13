@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\04.TriangleArea\bin\Debug\04.TriangleArea.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\04.TriangleArea\bin\Debug\04.TriangleArea.exe
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\04.TriangleArea\bin\Debug\04.TriangleArea.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\04.TriangleArea\obj\Debug\04.TriangleArea.exe
+c:\users\tttt\documents\visual studio 2012\Projects\11.UsingClassesАndObjects\04.TriangleArea\obj\Debug\04.TriangleArea.pdb

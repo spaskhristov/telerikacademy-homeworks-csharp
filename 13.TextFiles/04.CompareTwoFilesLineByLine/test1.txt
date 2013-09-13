@@ -1,0 +1,13 @@
+1. Streams are the main I/O mechanisms
+2. The StreamReader class and ReadLine() method are used t
+3. o read text files
+4. The StreamWriter class and WriteLine() method are used to write text files
+5. Always put file handling in using(…) block
+6. Exceptions are unusual events or error 
+7. Write a program that removes from a text file all words listed
+8. in given another text file. Handle all possible exceptions in your methods.
+9. Write a program that reads a list of words from a file words.txt and finds how
+10. many times each of the words is contained in another file test.txt. The result
+11. should be written in the file result.txt and the words should be sorted by the
+12. number of their occurrences in descending order. Handle all possible exceptions
+13. in your methods.

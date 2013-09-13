@@ -1,0 +1,7 @@
+C:\Terelik\07.Arrays\07.SelectSort\bin\Debug\07.SelectSort.exe
+C:\Terelik\07.Arrays\07.SelectSort\bin\Debug\07.SelectSort.pdb
+C:\Terelik\07.Arrays\07.SelectSort\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\07.Arrays\07.SelectSort\obj\x86\Debug\07.SelectSort.exe
+C:\Terelik\07.Arrays\07.SelectSort\obj\x86\Debug\07.SelectSort.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\07.SelectSort\obj\x86\Debug\07.SelectSort.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\07.SelectSort\obj\x86\Debug\07.SelectSort.pdb

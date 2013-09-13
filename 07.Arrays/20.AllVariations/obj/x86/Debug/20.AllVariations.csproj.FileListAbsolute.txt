@@ -1,0 +1,4 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\20.AllVariations\bin\Debug\20.AllVariations.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\20.AllVariations\bin\Debug\20.AllVariations.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\20.AllVariations\obj\x86\Debug\20.AllVariations.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\20.AllVariations\obj\x86\Debug\20.AllVariations.pdb

@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\25.ExtractAllTextFromHTML\bin\Debug\25.ExtractAllTextFromHTML.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\25.ExtractAllTextFromHTML\bin\Debug\25.ExtractAllTextFromHTML.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\25.ExtractAllTextFromHTML\bin\Debug\25.ExtractAllTextFromHTML.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\25.ExtractAllTextFromHTML\obj\Debug\25.ExtractAllTextFromHTML.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\25.ExtractAllTextFromHTML\obj\Debug\25.ExtractAllTextFromHTML.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\25.ExtractAllTextFromHTML\obj\Debug\25.ExtractAllTextFromHTML.pdb

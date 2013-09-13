@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\11-12.Polynomials\bin\Debug\11-12.Polynomials.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\11-12.Polynomials\bin\Debug\11-12.Polynomials.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\11-12.Polynomials\bin\Debug\11-12.Polynomials.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\11-12.Polynomials\obj\Debug\11-12.Polynomials.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\11-12.Polynomials\obj\Debug\11-12.Polynomials.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\11-12.Polynomials\obj\Debug\11-12.Polynomials.csprojResolveAssemblyReference.cache

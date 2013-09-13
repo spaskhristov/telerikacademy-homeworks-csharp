@@ -1,0 +1,9 @@
+C:\Terelik\08.Multidimensional-Arrays\06.MatrixClass\bin\Debug\06.MatrixClass.exe
+C:\Terelik\08.Multidimensional-Arrays\06.MatrixClass\bin\Debug\06.MatrixClass.pdb
+C:\Terelik\08.Multidimensional-Arrays\06.MatrixClass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\08.Multidimensional-Arrays\06.MatrixClass\obj\x86\Debug\06.MatrixClass.exe
+C:\Terelik\08.Multidimensional-Arrays\06.MatrixClass\obj\x86\Debug\06.MatrixClass.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\06.MatrixClass\obj\x86\Debug\06.MatrixClass.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\06.MatrixClass\obj\x86\Debug\06.MatrixClass.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\06.MatrixClass\bin\Debug\06.MatrixClass.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\06.MatrixClass\bin\Debug\06.MatrixClass.pdb

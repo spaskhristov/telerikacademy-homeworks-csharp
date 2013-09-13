@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\19.ExtractAllDates\bin\Debug\19.ExtractAllDates.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\19.ExtractAllDates\bin\Debug\19.ExtractAllDates.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\19.ExtractAllDates\bin\Debug\19.ExtractAllDates.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\19.ExtractAllDates\obj\Debug\19.ExtractAllDates.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\19.ExtractAllDates\obj\Debug\19.ExtractAllDates.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\14.StringsАndTextProcessing\19.ExtractAllDates\obj\Debug\19.ExtractAllDates.csprojResolveAssemblyReference.cache

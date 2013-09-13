@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\11.FormatNumber\obj\Debug\11.FormatNumber.exe
+c:\users\tttt\documents\visual studio 2012\Projects\14.StringsАndTextProcessing\11.FormatNumber\obj\Debug\11.FormatNumber.pdb

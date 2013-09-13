@@ -1,0 +1,11 @@
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\02.FindMaxElement\bin\Debug\02.FindMaxElement.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\02.FindMaxElement\bin\Debug\02.FindMaxElement.exe
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\02.FindMaxElement\bin\Debug\02.FindMaxElement.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\02.FindMaxElement\obj\Debug\02.FindMaxElement.exe
+c:\users\tttt\documents\visual studio 2012\Projects\08.Methods\02.FindMaxElement\obj\Debug\02.FindMaxElement.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\02.FindMaxElement\bin\Debug\02.FindMaxElement.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\02.FindMaxElement\obj\Debug\02.FindMaxElement.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\02.FindMaxElement\obj\Debug\02.FindMaxElement.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\02.FindMaxElement\bin\Debug\02.FindMaxElement.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\02.FindMaxElement\bin\Debug\02.FindMaxElement.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\09.Methods\02.FindMaxElement\obj\Debug\02.FindMaxElement.csprojResolveAssemblyReference.cache

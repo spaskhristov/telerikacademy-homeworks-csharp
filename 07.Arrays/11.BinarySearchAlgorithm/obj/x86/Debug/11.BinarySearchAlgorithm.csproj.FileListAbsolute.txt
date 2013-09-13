@@ -1,0 +1,5 @@
+C:\Terelik\07.Arrays\11.BinarySearchAlgorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\07.Arrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.exe
+C:\Terelik\07.Arrays\11.BinarySearchAlgorithm\bin\Debug\11.BinarySearchAlgorithm.pdb
+C:\Terelik\07.Arrays\11.BinarySearchAlgorithm\obj\x86\Debug\11.BinarySearchAlgorithm.exe
+C:\Terelik\07.Arrays\11.BinarySearchAlgorithm\obj\x86\Debug\11.BinarySearchAlgorithm.pdb

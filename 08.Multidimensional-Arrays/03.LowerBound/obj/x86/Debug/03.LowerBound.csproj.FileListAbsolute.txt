@@ -1,0 +1,7 @@
+C:\Terelik\08.Multidimensional-Arrays\03.LowerBound\bin\Debug\03.LowerBound.exe
+C:\Terelik\08.Multidimensional-Arrays\03.LowerBound\bin\Debug\03.LowerBound.pdb
+C:\Terelik\08.Multidimensional-Arrays\03.LowerBound\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Terelik\08.Multidimensional-Arrays\03.LowerBound\obj\x86\Debug\03.LowerBound.exe
+C:\Terelik\08.Multidimensional-Arrays\03.LowerBound\obj\x86\Debug\03.LowerBound.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\03.LowerBound\obj\x86\Debug\03.LowerBound.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\08.Multidimensional-Arrays\03.LowerBound\obj\x86\Debug\03.LowerBound.pdb

@@ -1,0 +1,5 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\19.AllPermutations\bin\Debug\19.AllPermutations.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\19.AllPermutations\bin\Debug\19.AllPermutations.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\19.AllPermutations\obj\x86\Debug\19.AllPermutations.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\19.AllPermutations\obj\x86\Debug\19.AllPermutations.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\07.Arrays\19.AllPermutations\obj\x86\Debug\19.AllPermutations.pdb
